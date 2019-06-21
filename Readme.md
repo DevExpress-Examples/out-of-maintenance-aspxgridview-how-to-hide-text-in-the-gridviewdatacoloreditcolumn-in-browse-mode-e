@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # ASPxGridView - how to hide Text in the GridViewDataColorEditColumn in browse mode
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e2068/)**
+<!-- run online end -->
 
 
 <p>This example is a workaround for the S34301 suggestion</p>
